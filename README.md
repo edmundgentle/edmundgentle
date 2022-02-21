@@ -1,16 +1,16 @@
-### Hi there 👋
+I build software to help businesses operate more efficiently.
 
-<!--
-**edmundgentle/edmundgentle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My timeline
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+👶 1992 - Born
+||
+💻 2003 - Started building websites
+||
+🛠 2005 - Started programming
+||
+🎓 2011-2014 - Studied Computer Science at Plymouth University
+||
+💼 2014-now - Started a business building software for businesses
+||
+```
